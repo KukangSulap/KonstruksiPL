@@ -10,6 +10,7 @@ namespace TPmodul_kelompok7
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
